@@ -1,5 +1,5 @@
 cd gau_truyen
-git pull origin master
+git pull origin main
 
 # Get latest commit message
 latest_msg=$(git log -1 --pretty=format:"%s")
