@@ -1,0 +1,6 @@
+[submodule "gau_truyen_backend"]
+	path = gau_truyen_backend
+	url = https://github.com/tnqbao/gau_truyen_backend.git
+[submodule "gau_truyen"]
+	path = gau_truyen
+	url = https://github.com/tnqbao/gau_truyen.git
